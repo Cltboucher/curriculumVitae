@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url(assets/font/Montserrat/Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url(assets/font/Montserrat/Montserrat-Bold.ttf);
+}
+
+html{
+    background-color: #131212;
+}
+
+     /* navbar */
+
+nav{
+    display: flex;
+    width: 100vh;
+}
+
+#cb{
+    font-family: 'Montserrat-Medium';
+    font-size: 20px;
+    text-decoration: none;
+    color: #f2f2f2;
+
+}
+
+#vd{
+    font-family: 'Montserrat-Medium';
+    font-size: 20px;
+    text-decoration: none;
+    color: #f2f2f2;
+}
+
+#ac{
+    font-family: 'Montserrat-Medium';
+    font-size: 20px;
+    text-decoration: none;
+    color: #f2f2f2;
+}
+
+#ct{
+    font-family: 'Montserrat-Medium';
+    font-size: 20px;
+    text-decoration: none;
+    color: #f2f2f2;
+}
+
+#pf{
+    font-family: 'Montserrat-Medium';
+    font-size: 20px;
+    text-decoration: none;
+    color: #f2f2f2;
+}
+
+/* curriculum animation js */
