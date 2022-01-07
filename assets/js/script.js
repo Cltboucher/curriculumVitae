@@ -1,2 +1,0 @@
-/* curriculum animation js */
-
